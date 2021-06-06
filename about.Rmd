@@ -6,11 +6,6 @@ title: "About Me"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r, layout="l-body-outset"}
-
-knitr::include_graphics("/Users/kalebmathieu/Desktop/1. Projects/Personal Website/website/petrified_forest_pic_small.jpg")
-
-```
 
 I'm a PhD student in educational psychology....
 

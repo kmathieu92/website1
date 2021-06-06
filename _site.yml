@@ -1,6 +1,5 @@
 name: "website"
 title: "Kaleb Mathieu"
-theme: theme.css
 description: |
   Kaleb Mathieu 
 output_dir: "docs"
@@ -13,3 +12,4 @@ navbar:
     - text: "Projects"
       href: projects.html
 output: distill::distill_article
+theme: theme.css

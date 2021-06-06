@@ -1,5 +1,15 @@
 ---
 title: "Kaleb Mathieu"
+image: "images/pic.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/kaleb-mathieu-a2603431/"
+  - label: '`r fontawesome::fa("twitter", height = "25px")`'
+    url: "https://twitter.com/KalebMathieu"
+  - label: OSF
+    url: "https://osf.io/ygkve/"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
@@ -17,8 +27,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # About
 
-I' a PhD student in educational psychology and a high school science teacher. 
+I' a PhD student in educational psychology and a high school science teacher. My current research explores the use of representations for learning chemistry. 
 
 # Research interests
 - Educational technology, STEM education, Learning sciences, cognitive science
 - R, data science, statistics
+
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1132-3422" href="https://orcid.org/0000-0003-1132-3422" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1132-3422</a></div>
