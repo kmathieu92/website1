@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Me",
+      "author": [],
+      "contents": "\n\n\n\nI’m a PhD student in educational psychology….\n\n\n\n",
+      "last_modified": "2021-06-06T10:22:58-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Kaleb Mathieu",
+      "author": [],
+      "contents": "\nAbout\nI’ a PhD student in educational psychology and a high school science teacher.\nResearch interests\nEducational technology, STEM education, Learning sciences, cognitive science\nR, data science, statistics\n\n\n\n",
+      "last_modified": "2021-06-06T10:22:59-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\nThis is where I will list my projects.\n\n\n\n",
+      "last_modified": "2021-06-06T10:23:01-05:00"
+    }
+  ],
+  "collections": []
+}
