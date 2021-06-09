@@ -10,7 +10,7 @@ This is where I will list my projects.
 
 # Data Visualizations
 
-[Survey Data Dashboard Prototype](https://kmathieu.shinyapps.io/wellness_protoype/)
+[Survey Data Dashboard Prototype](https://kmathieu.shinyapps.io/TAMUC_Wellness_Survey/)
 
 
 # Publications
