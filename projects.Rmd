@@ -6,13 +6,17 @@ title: "Projects"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is where I will list my projects.
+# Projects 
 
-# Data Visualizations
+## Research
+
+[Registration for study - The Role of Instructional Representation in Learning Chemical Diagrams](https://doi.org/10.17605/OSF.IO/J7AZV)
+
+## Data Visualizations
 
 [Survey Data Dashboard Prototype](https://kmathieu.shinyapps.io/TAMUC_Wellness_Survey/)
 
 
-# Publications
+## Publications
 
 Anker, M., Balasanthiran, C., Balasanthiran, V., Chisholm, M. H., Jayaraj, S., Mathieu, K., … Simonsick, W. J. (2017). A new route for the preparation of enriched iso-polylactide from rac-lactide via a Lewis acid catalyzed ring-opening of an epoxide. Dalton Transactions, 46(18), 5938–5945. doi:10.1039/c6dt03198f
