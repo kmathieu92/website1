@@ -6,8 +6,9 @@ title: "About Me"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I'm a high school science teacher and a PhD student in educational psychology studying visuals and representations for learning. I'm interested in educational technology, cognitive science, learning analytics, and STEM education. 
 
-I'm a PhD student in educational psychology....
+
 
 
 
