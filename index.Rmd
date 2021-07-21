@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## **About**
 
-I'm a PhD student in educational psychology and a high school science teacher. My current research explores the use of representations for learning chemistry. 
+I'm a PhD student in educational psychology and a Data Coach at a nonprofit. My current research explores the use of representations for learning chemistry. 
 
 ---
 
