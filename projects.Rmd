@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.align = "center")
 ```
 
 # Research
@@ -14,7 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Survey Data Dashboard Prototype](https://kmathieu.shinyapps.io/TAMUC_Wellness_Survey/)
 
-
 # Publications
 
 Anker, M., Balasanthiran, C., Balasanthiran, V., Chisholm, M. H., Jayaraj, S., Mathieu, K., … Simonsick, W. J. (2017). A new route for the preparation of enriched iso-polylactide from rac-lactide via a Lewis acid catalyzed ring-opening of an epoxide. Dalton Transactions, 46(18), 5938–5945. doi:10.1039/c6dt03198f
+
+# Miscellaneous 
+- This Augmented reality model of a molecule with rotating bonds was created with Blender for 3D rendering and processing, Avogadro for 3D molecule modeling, and Reality Composer for creation of the AR.  
+
+![](images/AR_Molecule_Demo.mp4){width=800%, height=30%}
