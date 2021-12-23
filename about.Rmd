@@ -6,7 +6,7 @@ title: "About Me"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I'm a Learning Engineer for an ed tech company and a PhD student in educational psychology studying representations for learning. I'm interested in educational technology, cognitive science, learning analytics, and STEM education. 
+I'm a Learning Engineer for an ed tech company and a PhD student in educational psychology studying representations for learning. I'm interested in educational technology, cognitive science, learning analytics, and STEM education.
 
 
 
